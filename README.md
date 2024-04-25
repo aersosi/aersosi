@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey, I'm arthur and I'm a designer who codes.
+I create and develop stunning interfaces and user-friendly web and app experiences for the B2B and consumer sectors.
 
-<!--
-**aersosi/aersosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal portfolio and personal projects
+- ⚡ Fun fact: I'm a former cook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack:
+- CSS/SCSS
+- JavaScript, TypeScript
+- Markup, Markdown
+- NX, Angular, React
+- Agile, Scrum
