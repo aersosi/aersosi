@@ -4,8 +4,9 @@
 
 I create and develop stunning interfaces and user-friendly web and app experiences for the B2B and consumer sectors.
 
-- 🔭 I’m currently working on my personal portfolio and personal projects
-- ⚡ Fun fact: I'm a former cook and type nerd
+🔭 I’m currently working on my personal portfolio and personal projects
+
+⚡ Fun fact: I'm a former cook and type nerd
 
 
 ## Tech Stack
