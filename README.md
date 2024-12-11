@@ -1,5 +1,3 @@
-![Github readme banner](https://github.com/aersosi/aersosi/blob/main/assets/Banner_1440x480.webp)
-
 # Hey, I'm arthur and I'm a designer who codes.
 
 I create and develop stunning interfaces and user-friendly web and app experiences for the B2B and consumer sectors.
