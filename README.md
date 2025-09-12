@@ -1,15 +1,27 @@
 ![Github readme banner](https://github.com/aersosi/aersosi/blob/main/assets/Banner_1440x480.webp)
 
-# Hey, I'm arthur and I'm a designer who codes.
+# Hi! Welcome to my projects!
+
+**My name is Arthur Ersosi (he/him) and I am a design engineer; in other words, a designer who codes. 
+I live in Hamburg, but my home is the World Wide Web.**
+
+---
 
 I create and develop stunning interfaces and user-friendly web and app experiences for the B2B and consumer sectors.
 
-🔭 I’m currently working on my personal portfolio and personal projects
-
 ⚡ Fun fact: I'm a former cook and type nerd
 
+🔭 Contact: [https://aersosi.com](https://aersosi.com)
+
+---
 
 ## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
@@ -19,12 +31,6 @@ I create and develop stunning interfaces and user-friendly web and app experienc
 ![Markdown](https://img.shields.io/badge/markdown-333333.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![MJML](https://img.shields.io/badge/MJML-F25F4A.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjE2LjcwMjciIGhlaWdodD0iNS42NzU2OCIgcng9IjIuODM3ODQiIGZpbGw9IndoaXRlIi8+CjxyZWN0IHg9IjE4LjMyNDMiIHdpZHRoPSI1LjY3NTY4IiBoZWlnaHQ9IjUuNjc1NjgiIHJ4PSIyLjgzNzg0IiBmaWxsPSJ3aGl0ZSIvPgo8cmVjdCB5PSI4LjY3NTY2IiB3aWR0aD0iNS42NzU2OCIgaGVpZ2h0PSI1LjY3NTY4IiByeD0iMi44Mzc4NCIgZmlsbD0id2hpdGUiLz4KPHJlY3QgeD0iNy4yOTczIiB5PSI4LjY3NTY2IiB3aWR0aD0iMTYuNzAyNyIgaGVpZ2h0PSI1LjY3NTY4IiByeD0iMi44Mzc4NCIgZmlsbD0id2hpdGUiLz4KPHJlY3QgeT0iMTcuMzUxMyIgd2lkdGg9IjE2LjcwMjciIGhlaWdodD0iNS42NzU2OCIgcng9IjIuODM3ODQiIGZpbGw9IndoaXRlIi8+CjxyZWN0IHg9IjE4LjMyNDMiIHk9IjE3LjM1MTMiIHdpZHRoPSI1LjY3NTY4IiBoZWlnaHQ9IjUuNjc1NjgiIHJ4PSIyLjgzNzg0IiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
 ![SVG](https://img.shields.io/badge/svg-EAB730.svg?style=for-the-badge&logo=svg&logoColor=black) 
-
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-f14e32.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NX](https://img.shields.io/badge/nx-143055.svg?style=for-the-badge&logo=nx&logoColor=white)
